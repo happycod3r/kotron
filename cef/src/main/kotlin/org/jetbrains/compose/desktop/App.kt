@@ -36,7 +36,7 @@ fun main(args: Array<String>) {
         }
     }
 
-    val url = mutableStateOf("https://www.google.com")
+    val url = mutableStateOf("http://localhost:8080")
 
     Window(
         title = "CEF-compose",
@@ -50,42 +50,7 @@ fun main(args: Array<String>) {
             color = Color.DarkGray
         ) {
             Column {
-                AddressBar(browser, url)
-                Spacer(Modifier.height(10.dp))
                 WebView(browser)
-            }
-        }
-    }
-}
-
-@Composable
-private fun AddressBar(browser: Browser, url: MutableState<String>) {
-    Surface(
-        color = Color.Transparent,
-        modifier = Modifier
-            .preferredHeight(58.dp)
-            .padding(start = 10.dp, end = 10.dp, top = 10.dp, bottom = 0.dp)
-    ) {
-        Row {
-            TextField(
-                backgroundColor = Color.White,
-                activeColor = Color.DarkGray,
-                inactiveColor = Color.DarkGray,
-                value = url.value,
-                onValueChange = {
-                    url.value = it 
-                },
-                modifier = Modifier.weight(1f),
-                shape = CircleShape,
-                label = { }
-            )
-            Spacer(Modifier.width(10.dp))
-            Button(
-                modifier = Modifier.preferredHeight(48.dp),
-                shape = CircleShape,
-                onClick = { browser.load(url.value) }
-            ) {
-                Text(text = "Go!")
             }
         }
     }

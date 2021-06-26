@@ -1,0 +1,44 @@
+{
+  "version": "9",
+  "items": {
+    "e15bb4279f87f9c7780d9aa360efe75d": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.5.20/e8671435e8cbd97524d138c102c040ef0876f70d/kotlin-stdlib-js-1.5.20.jar",
+      "target": "kotlin/1.5.20"
+    },
+    "6f5c74ee2b4c886580e62c7c0840b8ea": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.20/3d79dbd48bf605f4aac1e7028981a1953e245cbb/kotlin-stdlib-common-1.5.20.jar"
+    },
+    "377533fb99af2c5530ba1761d2ebcc13": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react/17.0.2-pre.206-kotlin-1.5.10/fe7721e528d5d25549e0d5b19c2c7b19f19b4a8/kotlin-react-17.0.2-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "d6887f8de61054c19ea19c4cc1913ebc": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.206-kotlin-1.5.10/833e398fe4e0de8a01b9aa8ca272530241ccba80/kotlin-extensions-1.0.1-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-extensions-js-legacy/1.0.1-pre.206-kotlin-1.5.10"
+    },
+    "32a13967eb349e0ecde5b0cc2fc6b533": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-dom/17.0.2-pre.206-kotlin-1.5.10/b4f354954fd435af4f7e868a0290403af7fa228d/kotlin-react-dom-17.0.2-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-dom-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "c880d38851a2e171d22b75c6e754af7d": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.3/93a1ab4269d3a567e05088d1237eedbc2efd03c9/kotlinx-html-jslegacy-0.7.3.jar",
+      "target": "kotlinx-html-js/0.7.3"
+    },
+    "c7b5eff9fd39ebe018a13e9211913d41": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-styled/5.3.0-pre.206-kotlin-1.5.10/578eff3770e5f810e0a7b12ab12d4ea14876aec3/kotlin-styled-5.3.0-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-styled-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "731d3ce83f8a83b9167fb2f2cfe75027": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-css-js/1.0.0-pre.206-kotlin-1.5.10/6f159b05182f9678eb9b3d19a2fc31207ec82ff9/kotlin-css-jslegacy-1.0-SNAPSHOT.jar",
+      "target": "kotlin-css/1.0.0-pre.206-kotlin-1.5.10"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.5.20/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.5.20.jar",
+      "target": "kotlin-test-js-runner/1.5.20"
+    },
+    "05940e0200ff600e7dd6ed3552d3c52e": {
+      "src": "/home/happycod3r/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.5.20/6d38484b53b3db766cf080268dcc5fbf63aa9e5e/kotlin-test-js-1.5.20.jar",
+      "target": "kotlin-test/1.5.20"
+    }
+  }
+}
