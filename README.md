@@ -11,8 +11,13 @@ Kotlin/React desktop framework
 
 ## Build
 
-(wip)
+> cd views
+> gradle
+
+> cd cef
+> gradle
 
 ## Run
 
-(wip)
+1. Open views in intellij run react project
+2. gradle run in cef dir
